@@ -1,5 +1,5 @@
 ---
-title: 'RUBIK Preliminary'
+title: 'RUBIK design and implementation'
 date: 2018-6-13
 permalink: /posts/2018/06/13/blog-post/
 tags:
