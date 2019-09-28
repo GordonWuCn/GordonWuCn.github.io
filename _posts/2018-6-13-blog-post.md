@@ -7,7 +7,7 @@ tags:
 ---
 
 Initialization of RUBIK
-======
+------
 
 After my draft design of abtraction of networking protocol, which made the model 
 of abstraction start to unravel, professor Li and I became more serious about 
@@ -26,7 +26,7 @@ grammar parser and has tons of virtue in coding, to accomplish our design. And
 we came up with our project name -- Rubik.
 
 Design and implementation
-======
+------
 
 Since I was acquainted with backend implementation and had couple of codes 
 ready, we put our efforts on syntax design. Same as my first design, using 
@@ -45,7 +45,7 @@ will. Our fine-grained idea is aimed at publishing on NSDI. And our RUBIK code
 will be open-sourced when the paper is accepted to NSDI.
 
 Thought during design and implementation
-======
+------
 
 Compared with my first design, this formal design is even more exacting and 
 intensive, since in my first design, I only worked myself and I did not need to
