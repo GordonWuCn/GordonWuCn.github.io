@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Paper I read"
-permalink: /paper_summaries/
+permalink: /papersummary/
 author_profile: false
 ---
 
