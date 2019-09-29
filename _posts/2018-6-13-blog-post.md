@@ -4,6 +4,7 @@ date: 2018-6-13
 permalink: /posts/2018/06/13/blog-post/
 tags:
   - Rubik
+excerpt: Roadmap of design and implementation of Rubik
 ---
 
 Initialization of RUBIK
