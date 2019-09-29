@@ -6,5 +6,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  # - title: "Paper I read"
-    # url: /paper_summary/
+  - title: "Paper I read"
+    url: /paper_summaries/
