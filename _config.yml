@@ -201,7 +201,7 @@ defaults:
       read_time: true
       comments: false
       share: false
-      related: true
+      related: false
   # _pages
   - scope:
       path: ""
@@ -243,7 +243,17 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
+
+  # _papersummary
+  - scope:
+      path: ""
+      type: papersummary
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comments: false
 
 # Sass/SCSS
 sass:
