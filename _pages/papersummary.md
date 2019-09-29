@@ -2,10 +2,10 @@
 layout: archive
 title: "Paper I read"
 permalink: /papersummary/
-author_profile: false
+author_profile: true
 ---
 
 {% include base_path %}
-{% for post in site.papersummary %}
+{% for post in site.publications %}
   {% include archive-single.html %}
 {% endfor %}
