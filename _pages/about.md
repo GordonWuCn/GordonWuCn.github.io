@@ -25,3 +25,5 @@ You can access the [PDF version](http://gordonwucn.github.io/files/changhao-wu-r
   June 2020 - August 2020
 
   Supervised by [Han Wang](https://www.cs.cornell.edu/~hwang/)
+
+[Off work stuffs](https://gordonwucn.github.io/misc/)
