@@ -54,5 +54,7 @@ alphabetically)
 * XBox One:
     - [Assassins' Creed: the Ezio Collection](https://www.ubisoft.com/en-us/game/assassins-creed-the-ezio-collection/) (I didn't finish it. The quests are repetitive)
     - [Far Cry 5](https://en.wikipedia.org/wiki/Far_Cry_5) (Only you~~~~~~)
+    - [Forza Horizon 4](https://en.wikipedia.org/wiki/Forza_Horizon_4 )
     - [Red Dead Redemption 2](https://en.wikipedia.org/wiki/Red_Dead_Redemption_2) (I have a \*\*\*/ \*\*\* \*\*\* plan!!)
+    - [Titanfall 2](https://en.wikipedia.org/wiki/Titanfall_2)
     - [The Witcher 3: Wild Hunt](https://en.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt) (My ending: Yennefer go, Triss go, Geralt gone......)
