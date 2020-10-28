@@ -19,7 +19,7 @@ You can access the [PDF version](http://gordonwucn.github.io/files/changhao-wu-r
 
   Hao Li, *Changhao Wu*, Guangda Sun, Peng Zhang, Danfeng Shan, Tian Pan, Chengchen Hu
   
-  ([Usenix NSDI 2021](https://www.usenix.org/conference/nsdi21))
+  To appear @ [Usenix NSDI 2021](https://www.usenix.org/conference/nsdi21)
 
 # Professional Experience
 * Intern @ Compiler team, [Barefoot network](https://www.barefootnetworks.com/), Santa Clara, CA
@@ -27,5 +27,7 @@ You can access the [PDF version](http://gordonwucn.github.io/files/changhao-wu-r
   June 2020 - August 2020
   
   Supervised by [Han Wang](https://www.cs.cornell.edu/~hwang/)
+
+  **Good news!** This project's code is about to merge([PR](https://github.com/p4lang/p4c/pull/2595)) to [p4c](https://github.com/p4lang/p4c) and is available [here](https://github.com/p4lang/p4c/tree/hanw/dpdk-pipeline-backend)
 
 [Off work stuffs](https://gordonwucn.github.io/misc/)
