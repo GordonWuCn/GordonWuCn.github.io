@@ -23,7 +23,7 @@ You can access the [PDF version](http://gordonwucn.github.io/files/changhao-wu-r
 
 * aFabric: Towards a Holistic View for Managing Hardware Accelerators in the Cloud  [PDF](http://gordonwucn.github.io/files/afabric-conext20-student.pdf)
 
-  Hao Li, *Changhao Wu*, Guangda Sun, Peng Zhang, Danfeng Shan, Tian Pan, Chengchen Hu
+  *Changhao Wu*, Theophilus A. Benson
   
   @ [ACM CoNEXT 2020 Student Workshop](https://conferences2.sigcomm.org/co-next/2020/#!/workshop-student)
 
