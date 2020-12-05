@@ -25,7 +25,7 @@ You can access the [PDF version](http://gordonwucn.github.io/files/changhao-wu-r
 
   Hao Li, *Changhao Wu*, Guangda Sun, Peng Zhang, Danfeng Shan, Tian Pan, Chengchen Hu
   
-  To appear @ [Usenix NSDI 2021](https://www.usenix.org/conference/nsdi21)
+  @ [ACM CoNEXT 2020 Student Workshop](https://conferences2.sigcomm.org/co-next/2020/#!/workshop-student)
 
 # Professional Experience
 * Intern @ Compiler team, [Barefoot network](https://www.barefootnetworks.com/), Santa Clara, CA
